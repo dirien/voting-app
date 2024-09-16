@@ -1,0 +1,6 @@
+name: pulumi-voting-app
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+description: A minimal Kubernetes TypeScript Pulumi program
